@@ -1,13 +1,13 @@
 # ImageClassification
 To do
-Build  a CNN with to classify specie of flower.
-Made use of Keras with Tenserflow Backend. 
-To Do:
- Steps
+* Build  a CNN with to classify specie of flower.
+* Made use of Keras with Tenserflow Backend. 
+* To Do:
+## Steps
 
-# 1. Import Libraries
-# 2. Image Analysis
-# 3. File Handling
-# 4. Data Preprocessing
-# 5. Building The CNN
-# 6. Training The CNN
+### 1. Import Libraries
+### 2. Image Analysis
+### 3. File Handling
+### 4. Data Preprocessing
+### 5. Building The CNN
+### 6. Training The CNN
